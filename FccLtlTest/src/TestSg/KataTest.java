@@ -1,7 +1,6 @@
 // amourik 24/07/2016
-//
-// test ITEC/FCC/LTL
-// test 1
+// Technical test for ITEC/FCC/LTL - SGCIB
+
 package TestSg;
 
 import java.util.LinkedList;
