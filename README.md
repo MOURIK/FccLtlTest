@@ -45,7 +45,7 @@ More details:
 - Récupérer le code de la classe TestKata.java
 - Créer nouveau projet Java
 - Créer une nouvelle classe avec les informations suivantes:
-   - package: TestSg
+   - Package: TestSg
    - Nom de classe: KataTest
 - Copier le code de la classe TestKata.java dans la nouvelle classe créée
 - Clique bouton droit sur la classe TestKata.java => Run As => Java Application
