@@ -37,7 +37,7 @@ More details:
 
 - Commit & push uniquement pour la classe TestKata.java qui contient le programme
 
-- Biblithèque utilisée: java.util.LinkedList 
+- Bibliothèque utilisée: java.util.LinkedList 
 
 *************************************
 # Exécution du programme: 
