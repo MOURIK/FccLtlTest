@@ -30,7 +30,7 @@ public class KataTest {
                         list.push( number % 10  ); //insertion de l'élément dans la liste 
                         number = number / 10;
                      }
-                     while (!list.isEmpty()) { // la méthode qui vérifie si la liste contient un élément
+                     while (!list.isEmpty()) { //la méthode qui vérifie si la liste contient un élément
                         int digit = list.pop(); //supprime l'élément de la liste et renvoie le premier de cette liste pour le tester
 
                         if(digit == 3){
