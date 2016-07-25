@@ -2,8 +2,9 @@
 # Test technique Kata en Java
 *************************************
 Entreprise: Société Générale "SGCIB"
+*************************************
 Entité    : ITEC/FCC/LTL
-***********************************
+*************************************
 Author: MOURIK Abdelhakim
 ID    : amourik040416
 *************************************
@@ -38,8 +39,7 @@ More details:
 - Biblithèque utilisée: java.util.LinkedList 
 
 *************************************
-
-Exécution du programme: 
+# Exécution du programme: 
 
 - Exécuter sous un IDE comme Eclipse
 - Récupérer le code de la classe TestKata.java
