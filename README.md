@@ -10,7 +10,7 @@ ID    : amourik040416
 *************************************
 Date: 25/07/2006
 *************************************
-Lien git: https://github.com/MOURIK/FccLtlTest.git
+Github link: https://github.com/MOURIK/FccLtlTest.git
 *************************************
 Programme à réaliser:
 
