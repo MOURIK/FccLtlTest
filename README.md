@@ -12,7 +12,7 @@ Date: 25/07/2006
 *************************************
 **Github link**: https://github.com/MOURIK/FccLtlTest.git
 *************************************
-Programme à réaliser:
+**Programme à réaliser:**
 
 Write a program that prints numbers from 1 to 100, one number per line. For each printed number, use the following rules:
 
@@ -31,6 +31,7 @@ More details:
 *	33 contains 3 two times and is divisible by 3, so we print “FooFooFoo”
 
 *************************************
+**Travail réalisé:**
 
 - Le projet est partagé sur GitHub en publique via Eclipse "pluggin Egit"
 
