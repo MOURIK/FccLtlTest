@@ -32,7 +32,7 @@ More details:
 
 *************************************
 
-- le projet est partagé sur GitHub en publique via Eclipse "pluggin Egit"
+- Le projet est partagé sur GitHub en publique via Eclipse "pluggin Egit"
 
 - Commit & push uniquement pour la classe TestKata.java qui contient le programme
 
